@@ -1,4 +1,4 @@
-# ResumeBot AI — Product Requirements Document
+# Insta-CV — Product Requirements Document
 
 > **Course:** CAP 942 — AI Application Development  
 > **Document Type:** Product Requirements Document (PRD)  
